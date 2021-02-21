@@ -1,0 +1,1 @@
+## İlk başta konsolu açıp npm install yazın sonra npm run start ile çalıştırabilirsiniz!
